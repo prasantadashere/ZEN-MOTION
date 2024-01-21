@@ -21,3 +21,9 @@ Success will be measured by the impact our platform has on users' mental well-be
 
 Scalability/Next Steps:
 Looking ahead, scalability is a critical consideration. We plan to assess the platform's performance and scalability to accommodate a growing user base. Future steps include refining and expanding the platform based on user feedback, incorporating additional features, and potentially collaborating with mental health professionals to enhance the effectiveness of our solution. Scalability will be a key focus to ensure Zen Motion can reach and support as many individuals as possible in their mental health journey.
+
+
+Prototype links :
+Web App : https://www.figma.com/proto/U51N4JmjhQPedNxKQ6Wu56/zm?page-id=0%3A1&type=design&node-id=2-61&viewport=263%2C183%2C0.5&t=DUhlFg8pgNqX0SUr-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design
+
+Mobile App : https://www.figma.com/proto/ZIVe6T6bQJxxjTmi6pVzLW/ZM-App?page-id=0%3A1&type=design&node-id=1-2&viewport=61%2C525%2C0.3&t=zrgbhG9tCjXABlnt-1&scaling=scale-down&starting-point-node-id=8%3A39&mode=design
