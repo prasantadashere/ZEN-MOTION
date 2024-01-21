@@ -1,5 +1,8 @@
 # ZEN-MOTION
-This repo is for GSC 2024 Project
+This repo is for GSC 2024 Project.
+
+
+
 Project Setup:
 The global challenge we are addressing in the Google Solution Challenge revolves around providing a comprehensive solution to all mental health problems. Our chosen problem statement aligns with Sustainable Development Goal number 3, focusing on health and well-being. The aim is to create a platform that promotes mental health awareness and offers practical tools for individuals to improve their well-being.
 
