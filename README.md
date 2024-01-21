@@ -27,3 +27,5 @@ Prototype links :
 Web App : https://www.figma.com/proto/U51N4JmjhQPedNxKQ6Wu56/zm?page-id=0%3A1&type=design&node-id=2-61&viewport=263%2C183%2C0.5&t=DUhlFg8pgNqX0SUr-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design
 
 Mobile App : https://www.figma.com/proto/ZIVe6T6bQJxxjTmi6pVzLW/ZM-App?page-id=0%3A1&type=design&node-id=1-2&viewport=61%2C525%2C0.3&t=zrgbhG9tCjXABlnt-1&scaling=scale-down&starting-point-node-id=8%3A39&mode=design
+
+Youtube Link : https://youtu.be/gVsQoqVCbzo?feature=shared
